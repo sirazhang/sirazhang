@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sirazhang
 - 👀 I’m interested in gamification in education, especially language teaching
-- 🌱 I’m currently learning the deep learning of facial micro-recognition
+- 🌱 I’m currently building the LLM in Education 
 - 📖 I’m developing my website: memorize-wd.com
 - 📫 You can reach me at sirazhang@gmail.com
 
